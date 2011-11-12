@@ -1,0 +1,6 @@
+```
+$ jasmine-node spec/diff_launch.test.js
+```
+
+open SpecRunner.html in blowser
+
